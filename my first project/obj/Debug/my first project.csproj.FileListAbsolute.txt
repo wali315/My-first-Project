@@ -1,0 +1,11 @@
+D:\visual studio 2022\projects\my first project\my first project\bin\Debug\my first project.exe.config
+D:\visual studio 2022\projects\my first project\my first project\bin\Debug\my first project.exe
+D:\visual studio 2022\projects\my first project\my first project\bin\Debug\my first project.pdb
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my first project.csproj.AssemblyReference.cache
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my first project.csproj.SuggestedBindingRedirects.cache
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my_first_project.Properties.Resources.resources
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my first project.csproj.GenerateResource.cache
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my first project.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my first project.exe
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my first project.pdb
+D:\visual studio 2022\projects\my first project\my first project\obj\Debug\my_first_project.Shop.resources
